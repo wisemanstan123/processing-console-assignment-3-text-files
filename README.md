@@ -41,11 +41,16 @@ By reading the reference page for `loadStrings` and repurposing the above exampl
 * Make sure your `list.txt` file is in the `data` folder. 
 * Make sure you commit small and often.
 
-## Bonus Challenge
+## Bonus Challenge #1
 * Introductory Computer Science - required for >80%
 * Intermediate Computer Science - required
 
 Create a second text file that will contain the daily specials and modify your program so that it loads this file and use the daily specials listed in it.
 
+## Bonus Challenge #2
+* Introductory Computer Science - required for >90%
+* Intermediate Computer Science - required for >80%
+
+Create a third text file that will contain a list of at least 5 beverages and modify your program so that it loads this file and uses the beverage list.
 
 
