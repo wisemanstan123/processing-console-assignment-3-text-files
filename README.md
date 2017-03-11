@@ -32,7 +32,7 @@ println("Job title:", lines[job]);
 println("Super power:", lines[superPower]);
 ```
 
-Note that the `lines` variable is a string array with three elements (one per line in the text file) and that the elements are numbered starting at zero. See https://processing.org/reference/Array.html for info on arrays.
+Note that the `lines` variable is a string array with three elements (one per line in the text file) and that the elements are numbered starting at zero. See https://processing.org/reference/Array.html for info on arrays and https://processing.org/reference/String.html for info on string variables.
 
 By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code.
 
