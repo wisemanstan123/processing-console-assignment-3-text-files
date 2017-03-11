@@ -34,10 +34,18 @@ println("Super power:", lines[superPower]);
 
 Note that the `lines` variable is a string array with three elements (one per line in the text file) and that the elements are numbered starting at zero. See https://processing.org/reference/Array.html for info on arrays and https://processing.org/reference/String.html for info on string variables.
 
-By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code.
+By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant.
 
 ## Tips
 * It is a good idea to read the reference pages for any new commands and variable types you encounter.
 * Make sure your `list.txt` file is in the `data` folder. 
 * Make sure you commit small and often.
+
+## Bonus Challenge
+* Introductory Computer Science - required for >80%
+* Intermediate Computer Science - required
+
+Create a second text file that will contain the daily specials and modify your program so that it loads this file and use the daily specials listed in it.
+
+
 
