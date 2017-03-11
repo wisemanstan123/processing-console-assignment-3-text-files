@@ -32,3 +32,4 @@ println("Job title:", lines[job]);
 println("Super power:", lines[superPower]);
 ```
 
+By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code. make sure you commit small and often.
