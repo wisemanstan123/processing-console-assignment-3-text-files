@@ -32,4 +32,11 @@ println("Job title:", lines[job]);
 println("Super power:", lines[superPower]);
 ```
 
-By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code. make sure you commit small and often.
+Note that the `lines` variable is a string array with three elements (one per line in the text file) and that the elements are numbered starting at zero. See https://processing.org/reference/Array.html for info on arrays.
+
+By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code.
+
+## Tips
+* Make sure your `list.txt` file is in the `data` folder. 
+* Make sure you commit small and often.
+
