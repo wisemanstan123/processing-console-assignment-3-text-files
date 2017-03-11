@@ -37,6 +37,7 @@ Note that the `lines` variable is a string array with three elements (one per li
 By reading the reference page for `loadStrings` and repurposing the above example code you can now create your virtual restaurant code.
 
 ## Tips
+* It is a good idea to read the reference pages for any new commands and variable types you encounter.
 * Make sure your `list.txt` file is in the `data` folder. 
 * Make sure you commit small and often.
 
