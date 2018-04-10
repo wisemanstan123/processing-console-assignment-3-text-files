@@ -1,6 +1,6 @@
 # processing-console-assignment-3-text-files
 
-In this assignment you will be creating a virtual restaurant where your program plays the role of a waiter. 
+In this assignment you will be creating a virtual restaurant where your program plays the role of a subservient and accomodating waiter. 
 
 ## Part 1
 Your program will be reading in a text file with information about your order and then display the following output in the console (anything between < and > will be replaced by the appropriate variable values.
