@@ -1,4 +1,4 @@
-# Processing Assignment 3: Reading and processing text file
+# processing-console-assignment-3-text-files
 
 In this assignment you will be creating a virtual restaurant where your program plays the role of a waiter. 
 
