@@ -2,7 +2,7 @@
  * Processing console assignment 
  * by Stanley
  * 
- * this is an assignment for my intro comp tech class.creating a virtual restaurant
+ * This is an assignment for my intro comp tech class. Creating a virtual restaurant
  * 
  */
  
@@ -28,7 +28,7 @@ void setup() {
   println("Beverage Order:", order[beverageorder] + "\n");
   
   println("Good evening " + order[name] + ". Nice to meet you! \nOur daily specials are... " + lines[Creamofbroccoli] + ", " + lines[Spinichsalad] + ", and " + lines[CroissantBLT] + "and we currently have seven types of drinks on the menu. They are: " + drinks[drink1] + ", " + drinks[drink2] + ", " + drinks[drink3] + ", " + drinks[drink4] + ", "  + drinks[drink1] + ", "  + drinks[drink5] + ", " + drinks[drink6] + ", and " + drinks[drink7]);
- 
+  println("I see that you are ordering " + order[foodorder] + " with a " + order[beverageorder] + ". Good choice " + order[name] + ", I will be out in a minute with your " + order[foodorder] + " and your " + order[beverageorder] + " right away.");
 
   
  
